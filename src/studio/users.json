@@ -1,0 +1,20 @@
+[
+  {
+    "email": "admin@enasa.ai",
+    "password": "enose123",
+    "name": "Admin",
+    "role": "admin"
+  },
+  {
+    "email": "qa.manager@enasa.ai",
+    "password": "qa123",
+    "name": "QA Manager",
+    "role": "manager"
+  },
+  {
+    "email": "viewer@enasa.ai",
+    "password": "viewer123",
+    "name": "Viewer",
+    "role": "viewer"
+  }
+]

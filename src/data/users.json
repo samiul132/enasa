@@ -1,0 +1,20 @@
+[
+  {
+    "email": "admin@enasa.com",
+    "password": "admin123",
+    "role": "admin",
+    "name": "Admin User"
+  },
+  {
+    "email": "user@enasa.com",
+    "password": "user123",
+    "role": "user",
+    "name": "Regular User"
+  },
+  {
+    "email": "demo@enasa.com",
+    "password": "demo123",
+    "role": "viewer",
+    "name": "Demo User"
+  }
+]
